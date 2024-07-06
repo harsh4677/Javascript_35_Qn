@@ -3,13 +3,7 @@
  * @return {Function}
  */
 var compose = function(functions) {
-
-    return function(x) {
-        if (functions.length === 0) {
-            return x;
-        }
-        return functions.reduceRight((accumulator, fn) => fn(accumulator), x);
-    };
+    return x => functions.reduceRight((acc,f)=>f(acc),x)
 };
 
 /**
