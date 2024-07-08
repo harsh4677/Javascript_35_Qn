@@ -1,65 +1,54 @@
 class Solution {
 public:
     int maxHeightOfTriangle(int r, int b) {
-        int height1=0;
-        int index=1;
-        int red=r,blue=b;
-        bool flag=true;
-        while(true){
-            if(flag){
-                if((red-index)>=0){
-                    red -=index;
-                    index++;
+        int height1 = 0, height2 = 0;
+        int index1 = 1, index2 = 1;
+        int red1 = r, blue1 = b;
+        int red2 = r, blue2 = b;
+        bool flag1 = true, flag2 = false;
+
+        while (true) {
+            // Try starting with red first
+            if (flag1) {
+                if (red1 - index1 >= 0) {
+                    red1 -= index1;
                     height1++;
-                    flag=!flag;
-                }
-                else{
+                } else {
                     break;
                 }
-            }
-            else{
-                if((blue-index)>=0){
-                    blue -=index;
-                    index++;
+            } else {
+                if (blue1 - index1 >= 0) {
+                    blue1 -= index1;
                     height1++;
-                    flag=!flag;
-                }
-                else{
+                } else {
                     break;
                 }
             }
+            index1++;
+            flag1 = !flag1;
         }
-        
-        
-        
-       int height2=0;
-        index=1;
-        flag=false;
-         red=r,blue=b;
-        while(true){
-            if(flag){
-                if((red-index)>=0){
-                    red -=index;
-                    index++;
+
+        while (true) {
+            // Try starting with blue first
+            if (flag2) {
+                if (red2 - index2 >= 0) {
+                    red2 -= index2;
                     height2++;
-                    flag=!flag;
+                } else {
+                    break;
                 }
-                else{
+            } else {
+                if (blue2 - index2 >= 0) {
+                    blue2 -= index2;
+                    height2++;
+                } else {
                     break;
                 }
             }
-            else{
-                if((blue-index)>=0){
-                    blue -=index;
-                    index++;
-                    height2++;
-                    flag=!flag;
-                }
-                else{
-                    break;
-                }
-            }
+            index2++;
+            flag2 = !flag2;
         }
-        return max(height1,height2);
+
+        return std::max(height1, height2);
     }
 };
