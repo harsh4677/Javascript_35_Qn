@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0792-binary-search) |
 | [3469-maximum-height-of-a-triangle](https://github.com/harsh4677/Javascript_35_Qn/tree/master/3469-maximum-height-of-a-triangle) |
 ## Enumeration
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
