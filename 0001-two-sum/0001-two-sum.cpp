@@ -1,22 +1,17 @@
-#include <vector>
-#include <unordered_map>
-using namespace std;
-
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int, int> numToIndex; // Maps number to its index
-        
-        for (int i = 0; i < nums.size(); i++) {
+        unordered_map<int, int> numMap;
+        int n = nums.size();
+
+        for (int i = 0; i < n; i++) {
             int complement = target - nums[i];
-            if (numToIndex.find(complement) != numToIndex.end()) {
-                // Return indices of the two numbers
-                return {numToIndex[complement], i};
+            if (numMap.count(complement)) {
+                return {numMap[complement], i};
             }
-            numToIndex[nums[i]] = i; // Store index of the current number
+            numMap[nums[i]] = i;
         }
-        
-        // If no pair is found, return an empty vector
-        return {};
+
+        return {}; // No solution found
     }
 };
