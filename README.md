@@ -73,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/harsh4677/Javascript_35_Qn/tree/master/2271-rearrange-array-elements-by-sign) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/harsh4677/Javascript_35_Qn/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
