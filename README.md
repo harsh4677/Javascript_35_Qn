@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0907-koko-eating-bananas) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/harsh4677/Javascript_35_Qn/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3469-maximum-height-of-a-triangle](https://github.com/harsh4677/Javascript_35_Qn/tree/master/3469-maximum-height-of-a-triangle) |
 ## Enumeration
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0907-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
