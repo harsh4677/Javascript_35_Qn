@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0189-rotate-array) |
+| [0273-integer-to-english-words](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/harsh4677/Javascript_35_Qn/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -100,9 +101,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0125-valid-palindrome) |
+| [0273-integer-to-english-words](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0273-integer-to-english-words) |
 ## Recursion
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/harsh4677/Javascript_35_Qn/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
