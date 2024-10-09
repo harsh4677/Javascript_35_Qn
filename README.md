@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0792-binary-search) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0204-count-primes) |
 | [3469-maximum-height-of-a-triangle](https://github.com/harsh4677/Javascript_35_Qn/tree/master/3469-maximum-height-of-a-triangle) |
 ## Math
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/harsh4677/Javascript_35_Qn/tree/master/1013-fibonacci-number) |
@@ -123,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0078-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
