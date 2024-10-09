@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/harsh4677/Javascript_35_Qn/tree/master/1013-fibonacci-number) |
 ## Two Pointers
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/harsh4677/Javascript_35_Qn/tree/master/1013-fibonacci-number) |
 ## Memoization
