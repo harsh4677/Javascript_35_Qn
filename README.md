@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0231-power-of-two) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/harsh4677/Javascript_35_Qn/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/harsh4677/Javascript_35_Qn/tree/master/1013-fibonacci-number) |
